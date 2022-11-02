@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Personal wish list application</description>
+        <device_type>browser</device_type>
+        <hint>Personal wish list application</hint>
+        <name/>
+        <order/>
+        <roles>x_916030_wish_list.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-02 12:34:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>468d996b47361110e784deae536d432f</sys_id>
+        <sys_name>Wish List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List" source="x_916030_wish_list">639c11e747361110e784deae536d43aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">639c11e747361110e784deae536d43aa</sys_scope>
+        <sys_update_name>sys_app_application_468d996b47361110e784deae536d432f</sys_update_name>
+        <title>Wish List</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
